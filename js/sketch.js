@@ -5,9 +5,9 @@ function setup() {
 }
 
 function draw() {
-  background(220)
+  background(0)
 }
 
 function resetSketch() {
-  background(220)
+  background(0)
 }
