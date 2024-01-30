@@ -23,5 +23,7 @@ npm install @types/p5
 
 ## Change Log
 ### 2024-01-30
+- Ignore Node packages
+- Add jsconfig for global p5 completion
 - Remove JS directory
 - Remove p5 files
