@@ -22,10 +22,11 @@ npm install @types/p5
 ```
 
 ## Change Log
+### 2025-10-04
+- Fix references to newly located JS files
 ### 2024-02-29
 - Add p5
 - Add ts-check to the top of [sketch.js](sketch.js)
-
 ### 2024-01-30
 - Ignore Node packages
 - Add jsconfig for global p5 completion
